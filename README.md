@@ -1,4 +1,4 @@
-# Predicción-Cyberbulling-en-Twitter
+# Predicción-Acoso-en-Twitter
 Objetivo: usar Python para detectar el acoso cibernético en Twitter según las categorías y los tipos de lenguaje utilizados con los tweets en riesgo (INFO 368: proyecto de análisis no estructurado)
 
 ## Créditos adicionales para miembros del grupo: 
